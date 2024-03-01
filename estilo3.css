@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Kdam+Thmor+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Kdam+Thmor+Pro&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+#menu {
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+#menu li{
+    display: inline-block;
+
+}
+
+ #menu li a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 70px; 
+
+
+}
+#menu li a:hover {
+    background-color: goldenrod;
+    color: black;
+    
+} 
+
+#balaco {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+
+
+.rdm1 {
+    width: 25%;
+    margin-left: 50px;
+    margin-top: 150px;
+    margin-bottom: 160px;
+    margin-right: 15%;
+}
+
+.rdm2 {
+    width: 15%;
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 160px;
+}
+
+
+
+.ofer1 {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+}
+
+.ofer2 {
+    position: absolute;
+    top: 65%;
+    left: 48%;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+
+}
+
+.space3 {
+    margin-top: -1px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+.promocao1 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+}
+
+.promocao2 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+}
+
+.promocao3 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+}
+
+.promocao4 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+    margin-top: 1%;
+
+
+}
+
+.promocao5 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+    margin-top: 2%;
+
+}
+
+.promocao6 {
+    width: 18%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+    margin-top: 5%;
+}
+
+.skt1 {
+    position: absolute;
+    top: 550px;
+    left: 65px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+.skt2 {
+    position: absolute;
+    top: 550px;
+    left: 400px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+
+
+.skt3 {
+    position: absolute;
+    top: 550px;
+    left: 720px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+.skt4 {
+    position: absolute;
+    top: 1150px;
+    left: 68px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+.skt5 {
+    position: absolute;
+    top: 1150px;
+    left: 400px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+.skt6 {
+    position: absolute;
+    top: 1150px;
+    left: 720px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+
+.promocao22 {
+    width: 30%;
+    margin-left: 30px;
+    margin-bottom: 160px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.slaman {
+    position: absolute;
+    margin-left: 600px;
+    top: 15%;
+    font-size: 28px;
+    background-color: black;
+    color: aliceblue;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+
+.slaman2 {
+    position: absolute;
+    margin-left: 800px;
+    top: 802px;
+    font-size: 28px;
+    background-color: black;
+    color: aliceblue;
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 300px;
+}
+
+#buy {
+    height: 100px;
+    width: 400px;
+    margin-left: 45px;
+    top: 120%;
+    position: absolute;
+
+    font-size: 28px;
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 400;
+
+    color: black;
+}

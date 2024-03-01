@@ -1,0 +1,229 @@
+#menu {
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#menu li{
+    display: inline-block;
+
+}
+
+ #menu li a{
+    display: inline;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 140px; 
+}
+#menu li a:hover {
+    background-color: goldenrod;
+    color: black;
+    
+}  
+
+#balaco {
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+
+
+.produto1 {
+    width: 20%;
+    margin-bottom: 160px;
+    margin-left: 50px;
+}
+
+.produto2 {
+    width: 20%;
+    margin-left: 50px;
+    
+    margin-bottom: 160px;
+}
+
+.produto3 {
+    width: 20%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+}
+
+.produto4 {
+    width: 20%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+}
+
+.produto5 {
+    width: 20%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+
+    
+}
+
+.produto6 {
+    width: 20%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+
+
+}
+
+.produto7 {
+    width: 20%;
+    margin-left: 50px;
+    margin-bottom: 160px;
+    margin-top: 3%;
+}
+
+.produto8 {
+    width: 20%;
+    margin-left: 10px;
+    margin-bottom: 160px;
+
+}
+
+
+
+
+#balaco {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+
+
+.boot1 {
+    position: absolute;
+    top: 580px;
+    left: 65px;
+    font-size: 20px;
+
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+
+.boot2 {
+    position: absolute;
+    top: 582px;
+    left: 430px;
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+.boot3 {
+    position: absolute;
+    top: 582px;
+    left: 800px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+.boot4 {
+    position: absolute;
+    top: 582px;
+    left: 1150px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+.boot5 {
+    position: absolute;
+    top: 1270px;
+    left: 65px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+.boot6 {
+    position: absolute;
+    top: 1270px;
+    left: 420px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+.boot7 {
+    position: absolute;
+    top: 1295px;
+    left: 800px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+
+
+.boot8 {
+    position: absolute;
+    top: 1270px;
+    left: 1130px;
+
+    font-size: 20px;
+
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+
+body {
+    background-color: lightslategray;
+}
+
+.space2 {
+    margin-bottom: 40px;
+}
+
